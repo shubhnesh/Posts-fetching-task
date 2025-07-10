@@ -1,16 +1,21 @@
-# task
+# Posts Fetching task
 
-A new Flutter project.
+It is a clean and simple Flutter application that lets you browse Posts from the [API](https://jsonplaceholder.typicode.com/posts).
 
-## Getting Started
+### Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/shubhnesh/Posts-fetching-task.git
 
-A few resources to get you started if this is your first Flutter project:
+2. **Install Dependencies**
+   ```bash
+   pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Run the App**
+   ```bash
+   flutter run
+   
+4. **Check if the device is recognized:**
+   ```bash
+   flutter devices
